@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SmartHouseApp/static/css/main.94dffc7f.chunk.css",
+    "main.js": "/SmartHouseApp/static/js/main.9a6c0ab1.chunk.js",
+    "main.js.map": "/SmartHouseApp/static/js/main.9a6c0ab1.chunk.js.map",
+    "runtime-main.js": "/SmartHouseApp/static/js/runtime-main.071e33e4.js",
+    "runtime-main.js.map": "/SmartHouseApp/static/js/runtime-main.071e33e4.js.map",
+    "static/js/2.d1153b85.chunk.js": "/SmartHouseApp/static/js/2.d1153b85.chunk.js",
+    "static/js/2.d1153b85.chunk.js.map": "/SmartHouseApp/static/js/2.d1153b85.chunk.js.map",
+    "static/js/3.9b91946a.chunk.js": "/SmartHouseApp/static/js/3.9b91946a.chunk.js",
+    "static/js/3.9b91946a.chunk.js.map": "/SmartHouseApp/static/js/3.9b91946a.chunk.js.map",
+    "index.html": "/SmartHouseApp/index.html",
+    "static/css/main.94dffc7f.chunk.css.map": "/SmartHouseApp/static/css/main.94dffc7f.chunk.css.map",
+    "static/js/2.d1153b85.chunk.js.LICENSE.txt": "/SmartHouseApp/static/js/2.d1153b85.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/SmartHouseApp/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.071e33e4.js",
+    "static/js/2.d1153b85.chunk.js",
+    "static/css/main.94dffc7f.chunk.css",
+    "static/js/main.9a6c0ab1.chunk.js"
+  ]
+}
