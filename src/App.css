@@ -1,0 +1,100 @@
+    @media screen and (max-width: 650px) {
+      .rectangle {
+        position: relative;
+        height: 500px;
+        width: 98%;
+        border: 3px solid #8c8c8c;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+      .triangle-up {
+        margin-left: auto;
+        margin-right: auto;
+        width: 0;
+        height: 0;
+        border-left: 180px solid transparent;
+        border-right: 180px solid transparent;
+        border-bottom: 180px solid #ff4d4d;
+      }
+}
+@media only screen and (min-width: 651px) { 
+.App {
+  text-align: center;
+}
+.triangle-up {
+  margin-left: auto;
+  margin-right: auto;
+  width: 0;
+	height: 0;
+	border-left: 300px solid transparent;
+	border-right: 300px solid transparent;
+	border-bottom: 300px solid #ff4d4d;
+}
+.rectangle{
+  position: relative;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 38%;
+  border: 3px solid #8c8c8c;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+button{
+  height: 70px;
+  width: 140px;
+  background-color: #8c8c8c;
+  color: white;
+  text-align: center;
+  border: 1px solid #8c8c8c;
+  border-radius: 10px;
+  font-size:25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: block;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.not-display{
+  display:none; 
+}
+.display1{
+  display:block;
+}

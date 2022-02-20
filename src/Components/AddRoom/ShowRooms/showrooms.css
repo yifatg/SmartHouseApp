@@ -1,0 +1,11 @@
+.room{
+    height:100px;
+    width:100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 10px;
+    text-align:center;
+    font-size: 20px;
+    line-height: 80px;
+}

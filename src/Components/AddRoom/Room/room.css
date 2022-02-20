@@ -1,0 +1,13 @@
+@media screen and (max-width: 650px) {
+    h2, h3{
+        text-align: center;
+    }
+}
+@media screen and (min-width: 651px) {
+h2{
+    color: black;
+}
+.space{
+    margin-bottom: 50px;
+}
+}

@@ -1,0 +1,19 @@
+@media only screen and (max-width: 650px) {
+    h1{
+        font-size:40px;
+        text-align: center;
+        color: #00cc66;
+        font-size: 40px;
+        margin-bottom: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+}
+@media only screen and (min-width: 651px) { 
+h1{
+    text-align: center;
+    color: #00cc66;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+}
